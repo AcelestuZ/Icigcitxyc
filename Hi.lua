@@ -1,6 +1,6 @@
 local HttpService = game:GetService("HttpService")
 
-local userKey = "PREMIUM-XXXX-1111" -- The key you generated in Phase 1
+local userKey = "PREMIUM-4949-1111" -- The key you generated in Phase 1
 local apiUrl = "https://system-auth-gateway.schoolonline12341.workers.dev" -- Paste your Cloudflare URL here
 
 -- 🛡️ SECURITY PRE-CHECK 1: Anti-Loadstring Environment Tampering Detection
